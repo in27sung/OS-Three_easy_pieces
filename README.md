@@ -1,13 +1,13 @@
 # Operating Systems: Three Easy Pieces
 
-# Intro
+## Intro
 
 Preface <br>
 TOC <br>
 1. Dialogue <br>
 2. Introduction <br>
 
-# Virtulization
+## Virtulization
 
 3. Dialogue
 4. Processes
