@@ -1,14 +1,14 @@
 # Operating Systems: Three Easy Pieces
 
-<h3>Intro</h3>
-<hr>
+# Intro
+
 Preface <br>
 TOC <br>
 1. Dialogue <br>
 2. Introduction <br>
 
-<h3>Virtulization</h3>
-<hr>
+# Virtulization
+
 3. Dialogue
 4. Processes
 5. Process API
